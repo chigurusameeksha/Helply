@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Help.ly</string>
+    <string-array name="array_relation_types">
+        <item>Relation</item>
+        <item>Parent</item>
+        <item>Spouse</item>
+        <item>Sibling / Cousin</item>
+        <item>Son / Daughter</item>
+        <item>Friend</item>
+    </string-array>
+    <string-array name="array_accident_types">
+        <item>Type</item>
+        <item>Theft</item>
+        <item>Accident</item>
+        <item>Natural Disaster </item>
+        <item>Kidnap</item>
+    </string-array>
+</resources>
